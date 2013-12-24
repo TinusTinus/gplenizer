@@ -1,5 +1,7 @@
 #/usr/bin/env python
 
+# Copyright 2013 Martijn van de Rijdt
+
 import os
 
 SOURCE_DIRECTORY = r"C:\development\workspaces\eclipse-4.2\umvc3-replay-analyser\umvc3replayanalyser\src"
