@@ -8,7 +8,7 @@ SOURCE_DIRECTORY = r"C:\development\workspaces\eclipse-4.2\umvc3-replay-analyser
 
 def main():
     '''
-    Adds the contentx of prefix.txt to the start of all .java files in SOURCE_DIRECTORY.
+    Adds the contents of prefix.txt to the start of all .java files in SOURCE_DIRECTORY.
     '''
     text = open('prefix.txt', 'r').read()
     
